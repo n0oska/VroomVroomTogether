@@ -3662,3 +3662,136 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-16.48.25:413][293]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-16.49.33:425][744]Cmd: EDIT COPY
+[2025.12.10-16.49.33:782][757]Cmd: EDIT PASTE
+[2025.12.10-16.49.56:032][910]Cmd: EDIT COPY
+[2025.12.10-16.49.56:238][916]Cmd: EDIT PASTE
+[2025.12.10-16.50.07:396][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10633.352539
+[2025.12.10-16.50.07:545][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.50.07:545][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10633.486328, Update Interval: 312.195190
+[2025.12.10-16.50.28:623][610]Cmd: EDIT COPY
+[2025.12.10-16.50.28:815][617]Cmd: EDIT PASTE
+[2025.12.10-16.51.17:730][255]Cmd: EDIT COPY
+[2025.12.10-16.51.18:087][255]Cmd: EDIT PASTE
+[2025.12.10-16.53.46:657][280]Cmd: EDIT COPY
+[2025.12.10-16.53.46:915][288]Cmd: EDIT PASTE
+[2025.12.10-16.53.48:846][288]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_34.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.54.41:253][873]Cmd: TRANSACTION UNDO
+[2025.12.10-16.54.41:253][873]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.54.41:535][873]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_34.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.54.41:535][873]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_34.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.54.45:547][ 32]LogDerivedDataCache: C:/Users/yacin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-16.55.56:753][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10982.759766
+[2025.12.10-16.55.56:888][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.55.56:888][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10982.877930, Update Interval: 339.227875
+[2025.12.10-16.56.00:988][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.56.01:073][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.10-16.56.01:263][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.12.10-16.56.01:481][380]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_32.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.56.01:487][380]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_32.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-16.56.01:529][380]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_34.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.56.01:532][380]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_34.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.56.03:340][380]LogSavePackage: Moving output files for package: /Game/LVL1
+[2025.12.10-16.56.03:342][380]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL12802D12848A7D6650FCD60BDACA9D114.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap'
+[2025.12.10-16.56.03:365][380]LogFileHelpers: Saving map 'LVL1' took 2.296
+[2025.12.10-16.56.03:376][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.38 sec (total: 10.5 sec)
+[2025.12.10-16.56.03:458][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.56.03:458][380]LogContentValidation: Enabled validators:
+[2025.12.10-16.56.03:458][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.56.03:459][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.56.03:459][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.56.03:459][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.56.03:459][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.56.03:459][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.56.03:459][380]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-16.56.04:052][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.56.04:061][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.56.04:061][409]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.56.04:404][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.342950s)
+[2025.12.10-16.56.04:404][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.343008s)
+[2025.12.10-16.56.04:487][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.10-16.56.04:490][409]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.56.04:492][409]LogPlayLevel: PIE: World Init took: (0.002395s)
+[2025.12.10-16.56.04:493][409]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.56.04:493][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.56.04:493][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.56.04:493][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.56.04:493][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.56.04:493][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.56.04:497][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.56.04:578][409]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.10-16.56.04:580][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.56.04:580][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.56.04:580][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.56.04:580][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.12.10-16.56.04:580][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.12.10-16.56.04:584][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.12.10-16.56.04:584][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.12.10-16.56.04:584][409]LogInit: FAudioDevice initialized with ID 23.
+[2025.12.10-16.56.04:584][409]LogAudio: Display: Audio Device (ID: 23) registered with world 'LVL1'.
+[2025.12.10-16.56.04:584][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.10-16.56.04:589][409]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.56.04:667][409]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.56.04
+[2025.12.10-16.56.04:668][409]LogWorld: Bringing up level for play took: 0.078465
+[2025.12.10-16.56.04:674][409]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.12.10-16.56.04:680][409]PIE: Server logged in
+[2025.12.10-16.56.04:683][409]PIE: Play in editor total start time 0,622 seconds.
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: ================================================
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Total job queries 739, among them cache hits 32 (4.33%), DDC hits 500 (67.66%), Duplicates 194 (26.25%)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Tracking 513 distinct input hashes that result in 331 distinct outputs (64.52%)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: RAM used: 4,34 MiB of 819,20 MiB budget. Usage: 0.53%
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Shaders Compiled: 13
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Average time worker was idle: 2844.17 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.92 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 1.30 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 2.13
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Shader code size: total 102,75 KiB, numShaders 14, average 7,339 KiB, min 2,105 KiB, max 12,219 KiB
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.41 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Average processing rate: 2.95 jobs/sec
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Total thread time: 8,55 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Total thread preprocess time: 13,252 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Percentage time preprocessing: 154.99%
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Effective parallelization: 1.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.242303
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.63 sec, max 0.92 sec, min 0.50 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.42% of total time (compiled    4 times, average 0.63 sec, max 0.92 sec, min 0.50 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.29% of total time (compiled    2 times, average 0.44 sec, max 0.58 sec, min 0.30 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 10.25% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 9.40% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display:                                                  FHitProxyPS - 8.58% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Materials Translated:    165
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Material Translation Only: 0.07 s (48%)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: Material Cache Hits: 31 (19%)
+[2025.12.10-16.56.04:724][410]LogShaderCompilers: Display: ================================================
+[2025.12.10-16.57.21:276][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.57.21:276][988]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.57.21:276][988]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.57.21:298][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.57.21:302][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.57.21:310][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.57.21:426][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.57.21:435][988]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.10-16.57.21:435][988]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.12.10-16.57.21:438][988]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.12.10-16.57.21:458][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.12.10-16.57.21:557][989]LogPlayLevel: Display: Destroying online subsystem :Context_27
