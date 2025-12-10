@@ -2701,3 +2701,915 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-14.57.04:340][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-14.57.04:340][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-14.57.04:340][605]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-14.58.26:437][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3932.032715
+[2025.12.10-14.58.27:438][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-14.58.27:438][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3932.699463, Update Interval: 349.894104
+[2025.12.10-15.00.28:012][236]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.12.10-15.00.28:012][236]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{1a2cb29b-06f4-4872-a18d-0c6ab7bdd735}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.10-15.00.28:019][236]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2025.12.10-15.00.28:084][236]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{1a2cb29b-06f4-4872-a18d-0c6ab7bdd735}]
+[2025.12.10-15.00.28:084][236]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.10-15.00.28:084][236]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.10-15.00.29:089][239]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1a2cb29b-06f4-4872-a18d-0c6ab7bdd735}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=677.51
+[2025.12.10-15.00.29:089][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.10-15.00.29:089][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.10-15.00.29:091][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-15.04.54:444][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4320.041992
+[2025.12.10-15.04.55:444][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.04.55:444][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4320.708984, Update Interval: 322.403625
+[2025.12.10-15.11.15:141][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4700.733887
+[2025.12.10-15.11.16:141][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.11.16:141][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4701.399902, Update Interval: 351.087982
+[2025.12.10-15.17.53:836][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5099.420898
+[2025.12.10-15.17.54:836][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.17.54:836][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5100.087891, Update Interval: 303.292328
+[2025.12.10-15.22.17:230][164]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (JBL TUNE130NC TWS), InstanceID=1
+[2025.12.10-15.22.17:230][164]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.10-15.22.17:513][164]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}]
+[2025.12.10-15.22.17:513][164]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.10-15.22.17:513][164]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.10-15.22.17:848][165]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}, Name=Casque (JBL TUNE130NC TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.80
+[2025.12.10-15.22.17:848][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.10-15.22.17:849][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.10-15.22.17:851][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-15.23.28:942][759]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.28:942][759]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.10-15.23.28:959][759]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_6.Weightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.10-15.23.29:284][763]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.29:284][763]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.10-15.23.29:297][763]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_6.Weightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.10-15.23.29:732][779]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.29:732][779]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.10-15.23.29:752][779]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_6.Weightmap_6 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.10-15.23.30:426][816]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.30:426][816]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.10-15.23.36:121][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5441.704590
+[2025.12.10-15.23.36:286][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.23.36:286][139]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5441.854004, Update Interval: 323.350311
+[2025.12.10-15.23.36:593][157]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.36:593][157]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.10-15.23.37:894][210]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.37:895][210]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-15.23.46:138][674]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.46:138][674]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.23.46:230][674]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.23.46:433][676]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.46:433][676]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.23.46:520][676]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.23.57:064][269]Cmd: TRANSACTION UNDO
+[2025.12.10-15.23.57:064][269]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.23.57:148][269]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.24.38:802][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.10-15.24.38:809][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.10-15.24.38:861][609]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.24.39:328][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto2
+[2025.12.10-15.24.39:328][609]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto296AEEA7E45A6EC8D2A1677A19BABC27D.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto2.umap'
+[2025.12.10-15.24.39:332][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.566
+[2025.12.10-15.24.39:332][609]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.566
+[2025.12.10-15.28.52:008][727]Cmd: TRANSACTION UNDO
+[2025.12.10-15.28.52:008][727]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.28.52:095][727]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.28.52:931][755]Cmd: TRANSACTION UNDO
+[2025.12.10-15.28.52:931][755]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.28.53:017][755]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.28.54:995][868]Cmd: TRANSACTION UNDO
+[2025.12.10-15.28.54:995][868]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.29.07:121][530]Cmd: TRANSACTION UNDO
+[2025.12.10-15.29.07:121][530]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.29.56:305][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5821.933105
+[2025.12.10-15.29.56:474][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.29.56:474][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5822.083984, Update Interval: 328.759430
+[2025.12.10-15.34.39:590][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.12.10-15.34.39:597][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.10-15.34.39:644][198]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.34.39:648][198]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.34.40:136][198]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto3
+[2025.12.10-15.34.40:136][198]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto3DE481AC3422F859A61DB38A8ED9BA41D.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto3.umap'
+[2025.12.10-15.34.40:138][198]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.584
+[2025.12.10-15.34.40:138][198]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.584
+[2025.12.10-15.36.19:597][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6205.210938
+[2025.12.10-15.36.19:730][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.36.19:730][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6205.328125, Update Interval: 358.904999
+[2025.12.10-15.38.36:036][333]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.44:502][757]Cmd: TRANSACTION UNDO
+[2025.12.10-15.38.44:504][757]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-15.38.44:591][757]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.44:591][757]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.44:783][759]Cmd: TRANSACTION UNDO
+[2025.12.10-15.38.44:783][759]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-15.38.44:874][759]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.44:874][759]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.45:818][801]Cmd: TRANSACTION UNDO
+[2025.12.10-15.38.45:819][801]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-15.38.45:904][801]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.45:904][801]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.38.47:192][866]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.39.02:276][670]Cmd: TRANSACTION UNDO
+[2025.12.10-15.39.02:276][670]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-15.39.02:361][670]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.39.02:363][670]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.39.07:414][896]Cmd: TRANSACTION UNDO
+[2025.12.10-15.39.07:414][896]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-15.39.34:399][293]Cmd: TRANSACTION UNDO
+[2025.12.10-15.39.34:399][293]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.39.34:487][293]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.40.48:497][423]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-15.40.48:505][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-15.40.48:544][423]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-15.40.48:661][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117253s)
+[2025.12.10-15.40.48:661][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.117316s)
+[2025.12.10-15.40.48:704][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.12.10-15.40.48:711][423]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-15.40.48:712][423]LogPlayLevel: PIE: World Init took: (0.002286s)
+[2025.12.10-15.40.48:714][423]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-15.40.48:714][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-15.40.48:714][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-15.40.48:714][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-15.40.48:714][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-15.40.48:714][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-15.40.48:717][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-15.40.48:738][423]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-15.40.48:738][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-15.40.48:738][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-15.40.48:738][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-15.40.48:739][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.12.10-15.40.48:739][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.12.10-15.40.48:742][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.12.10-15.40.48:742][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.12.10-15.40.48:742][423]LogInit: FAudioDevice initialized with ID 13.
+[2025.12.10-15.40.48:742][423]LogAudio: Display: Audio Device (ID: 13) registered with world 'LVL1'.
+[2025.12.10-15.40.48:742][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.10-15.40.48:747][423]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-15.40.48:771][423]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-16.40.48
+[2025.12.10-15.40.48:771][423]LogWorld: Bringing up level for play took: 0.024010
+[2025.12.10-15.40.48:775][423]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.12.10-15.40.48:780][423]PIE: Server logged in
+[2025.12.10-15.40.48:782][423]PIE: Play in editor total start time 0,279 seconds.
+[2025.12.10-15.41.04:885][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.41.04:885][386]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-15.41.04:885][386]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.41.04:892][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.41.04:895][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-15.41.04:901][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.41.04:940][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-15.41.04:941][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.10-15.41.04:941][386]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.12.10-15.41.04:943][386]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.12.10-15.41.04:949][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.41.04:956][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.10-15.41.05:042][387]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.12.10-15.41.48:061][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-15.41.48:070][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-15.41.48:070][665]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-15.41.48:189][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119551s)
+[2025.12.10-15.41.48:189][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.119598s)
+[2025.12.10-15.41.48:241][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.10-15.41.48:244][665]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-15.41.48:246][665]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2025.12.10-15.41.48:247][665]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-15.41.48:247][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-15.41.48:247][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-15.41.48:247][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-15.41.48:247][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-15.41.48:247][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-15.41.48:251][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-15.41.48:270][665]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-15.41.48:270][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-15.41.48:270][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-15.41.48:270][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-15.41.48:273][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.12.10-15.41.48:273][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.12.10-15.41.48:275][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.12.10-15.41.48:275][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.12.10-15.41.48:275][665]LogInit: FAudioDevice initialized with ID 14.
+[2025.12.10-15.41.48:275][665]LogAudio: Display: Audio Device (ID: 14) registered with world 'LVL1'.
+[2025.12.10-15.41.48:275][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.10-15.41.48:280][665]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-15.41.48:304][665]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-16.41.48
+[2025.12.10-15.41.48:304][665]LogWorld: Bringing up level for play took: 0.024176
+[2025.12.10-15.41.48:307][665]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.12.10-15.41.48:312][665]PIE: Server logged in
+[2025.12.10-15.41.48:316][665]PIE: Play in editor total start time 0,247 seconds.
+[2025.12.10-15.42.04:045][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.42.04:045][604]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-15.42.04:046][604]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.42.04:052][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.42.04:054][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-15.42.04:062][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.42.04:101][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-15.42.04:101][604]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.10-15.42.04:101][604]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.12.10-15.42.04:103][604]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.12.10-15.42.04:109][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.42.04:116][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.10-15.42.04:186][605]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.12.10-15.42.50:124][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6595.731934
+[2025.12.10-15.42.50:290][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.42.50:291][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6595.882812, Update Interval: 314.398010
+[2025.12.10-15.43.16:574][675]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.43.26:680][190]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-15.43.26:687][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-15.43.26:714][190]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-15.43.26:831][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116696s)
+[2025.12.10-15.43.26:831][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.116799s)
+[2025.12.10-15.43.26:886][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.10-15.43.26:890][190]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-15.43.26:892][190]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2025.12.10-15.43.26:893][190]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-15.43.26:894][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-15.43.26:894][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-15.43.26:894][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-15.43.26:894][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-15.43.26:894][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-15.43.26:896][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-15.43.26:916][190]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-15.43.26:916][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-15.43.26:916][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-15.43.26:916][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-15.43.26:918][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.12.10-15.43.26:918][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.12.10-15.43.26:920][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.12.10-15.43.26:920][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.12.10-15.43.26:920][190]LogInit: FAudioDevice initialized with ID 15.
+[2025.12.10-15.43.26:920][190]LogAudio: Display: Audio Device (ID: 15) registered with world 'LVL1'.
+[2025.12.10-15.43.26:920][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.12.10-15.43.26:925][190]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-15.43.26:950][190]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-16.43.26
+[2025.12.10-15.43.26:950][190]LogWorld: Bringing up level for play took: 0.024534
+[2025.12.10-15.43.26:953][190]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.12.10-15.43.26:958][190]PIE: Server logged in
+[2025.12.10-15.43.26:961][190]PIE: Play in editor total start time 0,275 seconds.
+[2025.12.10-15.44.06:134][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.44.06:134][536]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-15.44.06:136][536]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.44.06:142][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.44.06:146][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-15.44.06:151][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.44.06:192][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-15.44.06:193][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.12.10-15.44.06:193][536]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.12.10-15.44.06:197][536]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.12.10-15.44.06:202][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.44.06:210][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.10-15.44.06:297][537]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.12.10-15.45.52:113][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.10-15.45.52:117][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.10-15.45.52:167][851]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.45.52:170][851]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.45.52:172][851]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.45.52:174][851]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_4.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.45.52:178][851]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.45.52:180][851]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.45.52:684][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto4
+[2025.12.10-15.45.52:684][851]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto41F08A196492D5E6D6717B38056B5B8F7.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto4.umap'
+[2025.12.10-15.45.52:686][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.606
+[2025.12.10-15.45.52:686][851]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.606
+[2025.12.10-15.48.59:192][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6964.824219
+[2025.12.10-15.48.59:357][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.48.59:359][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6964.974121, Update Interval: 310.375061
+[2025.12.10-15.49.54:255][ 22]Cmd: TRANSACTION UNDO
+[2025.12.10-15.49.54:255][ 22]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-15.49.54:351][ 22]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_8.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-15.54.45:215][981]LogDerivedDataCache: C:/Users/yacin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-15.54.49:854][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7315.485352
+[2025.12.10-15.54.49:987][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-15.54.49:988][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7315.602051, Update Interval: 317.080597
+[2025.12.10-15.55.52:963][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.12.10-15.55.52:972][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.10-15.55.53:013][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_11.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:027][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_10.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:030][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_9.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:031][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_8.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:033][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_8.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:037][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_7.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:041][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:042][ 17]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-15.55.53:544][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto5
+[2025.12.10-15.55.53:544][ 17]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto54F73F186493BB21E2EF992A139135720.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto5.umap'
+[2025.12.10-15.55.53:549][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.638
+[2025.12.10-15.55.53:549][ 17]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.638
+[2025.12.10-15.55.54:628][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-15.55.54:689][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.10-15.55.54:748][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.10-15.55.55:307][ 79]LogSavePackage: Moving output files for package: /Game/LVL1
+[2025.12.10-15.55.55:307][ 79]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1B59332664FA7B932D30010B5E540D81B.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap'
+[2025.12.10-15.55.55:320][ 79]LogFileHelpers: Saving map 'LVL1' took 0.633
+[2025.12.10-15.55.55:333][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 705.105 ms (total: 3.67 sec)
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: Enabled validators:
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-15.55.55:422][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-15.55.55:424][ 79]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-15.56.33:606][253]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_8.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-15.57.18:725][875]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-15.57.18:733][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-15.57.18:733][875]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-15.57.18:861][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127052s)
+[2025.12.10-15.57.18:861][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.127101s)
+[2025.12.10-15.57.18:910][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.10-15.57.18:916][875]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-15.57.18:919][875]LogPlayLevel: PIE: World Init took: (0.002511s)
+[2025.12.10-15.57.18:920][875]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-15.57.18:920][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-15.57.18:920][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-15.57.18:920][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-15.57.18:920][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-15.57.18:920][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-15.57.18:924][875]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-15.57.18:946][875]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-15.57.18:946][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-15.57.18:946][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-15.57.18:946][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-15.57.18:946][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.12.10-15.57.18:946][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.12.10-15.57.18:951][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.12.10-15.57.18:951][875]LogInit: FAudioDevice initialized with ID 16.
+[2025.12.10-15.57.18:951][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.12.10-15.57.18:951][875]LogAudio: Display: Audio Device (ID: 16) registered with world 'LVL1'.
+[2025.12.10-15.57.18:951][875]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.10-15.57.18:956][875]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-15.57.18:982][875]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-16.57.18
+[2025.12.10-15.57.18:982][875]LogWorld: Bringing up level for play took: 0.026418
+[2025.12.10-15.57.18:986][875]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.12.10-15.57.18:992][875]PIE: Server logged in
+[2025.12.10-15.57.18:996][875]PIE: Play in editor total start time 0,262 seconds.
+[2025.12.10-15.57.51:565][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.57.51:565][822]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-15.57.51:565][822]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.57.51:572][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.57.51:575][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-15.57.51:581][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.57.51:632][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-15.57.51:636][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.10-15.57.51:636][822]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.12.10-15.57.51:639][822]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.12.10-15.57.51:654][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.10-15.57.51:742][823]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.12.10-16.00.42:162][676]Cmd: DELETE
+[2025.12.10-16.00.42:162][676]Cmd: ACTOR DELETE
+[2025.12.10-16.00.42:197][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-16.00.42:245][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.12.10-16.00.42:250][676]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2025.12.10-16.00.51:171][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7676.813477
+[2025.12.10-16.00.51:321][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.00.51:321][210]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7676.947266, Update Interval: 319.268768
+[2025.12.10-16.02.39:364][373]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_12.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.03.03:487][685]Cmd: TRANSACTION UNDO
+[2025.12.10-16.03.03:487][685]LogEditorTransaction: Undo Move Elements
+[2025.12.10-16.03.03:959][692]Cmd: TRANSACTION UNDO
+[2025.12.10-16.03.03:959][692]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.03.04:051][692]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_12.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.03.04:444][708]Cmd: TRANSACTION UNDO
+[2025.12.10-16.03.04:444][708]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-16.03.05:240][752]Cmd: TRANSACTION UNDO
+[2025.12.10-16.03.05:240][752]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-16.03.05:332][752]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.04.59:491][429]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.17:835][ 31]Cmd: TRANSACTION UNDO
+[2025.12.10-16.06.17:835][ 31]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.12.10-16.06.17:929][ 31]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.17:929][ 31]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.19:028][ 76]Cmd: TRANSACTION REDO
+[2025.12.10-16.06.19:028][ 76]LogEditorTransaction: Redo Landscape Editing: Add ramp
+[2025.12.10-16.06.19:118][ 76]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.19:118][ 76]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.25:114][385]Cmd: TRANSACTION UNDO
+[2025.12.10-16.06.25:114][385]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.06.25:214][385]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.25:214][385]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.26:725][451]Cmd: TRANSACTION UNDO
+[2025.12.10-16.06.26:725][451]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.06.27:167][468]Cmd: TRANSACTION UNDO
+[2025.12.10-16.06.27:167][468]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.06.27:257][468]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.27:258][468]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:644][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.06.33:727][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.10-16.06.33:826][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.10-16.06.33:874][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:877][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_13.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:880][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_12.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:882][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_12.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:885][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_9.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:887][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_8.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.33:889][781]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_8.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-16.06.34:437][781]LogSavePackage: Moving output files for package: /Game/LVL1
+[2025.12.10-16.06.34:438][781]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1F088DB9641EF4A462B1F59BD2135C6EE.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap'
+[2025.12.10-16.06.34:451][781]LogFileHelpers: Saving map 'LVL1' took 0.725
+[2025.12.10-16.06.34:463][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 819.323 ms (total: 4.49 sec)
+[2025.12.10-16.06.34:536][781]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.06.34:537][781]LogContentValidation: Enabled validators:
+[2025.12.10-16.06.34:537][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.06.34:537][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.06.34:537][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.06.34:537][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.06.34:537][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.06.34:537][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.06.34:537][781]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-16.07.09:258][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8054.897949
+[2025.12.10-16.07.09:409][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.07.09:409][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8055.031738, Update Interval: 318.193909
+[2025.12.10-16.07.41:825][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.07.41:834][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.07.41:864][798]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.07.41:981][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117518s)
+[2025.12.10-16.07.41:982][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.117572s)
+[2025.12.10-16.07.42:032][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.10-16.07.42:033][798]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.07.42:036][798]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2025.12.10-16.07.42:037][798]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.07.42:037][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.07.42:037][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.07.42:037][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.07.42:037][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.07.42:037][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.07.42:040][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.07.42:062][798]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-16.07.42:063][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.07.42:063][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.07.42:063][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.07.42:064][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.12.10-16.07.42:064][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.12.10-16.07.42:067][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.12.10-16.07.42:067][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.12.10-16.07.42:067][798]LogInit: FAudioDevice initialized with ID 17.
+[2025.12.10-16.07.42:067][798]LogAudio: Display: Audio Device (ID: 17) registered with world 'LVL1'.
+[2025.12.10-16.07.42:067][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.10-16.07.42:074][798]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.07.42:106][798]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.07.42
+[2025.12.10-16.07.42:106][798]LogWorld: Bringing up level for play took: 0.032181
+[2025.12.10-16.07.42:109][798]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.12.10-16.07.42:115][798]PIE: Server logged in
+[2025.12.10-16.07.42:119][798]PIE: Play in editor total start time 0,286 seconds.
+[2025.12.10-16.07.43:944][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.07.43:944][903]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.07.43:946][903]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.07.43:954][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.07.43:956][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.07.43:962][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.07.44:025][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-16.07.44:026][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.10-16.07.44:026][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.12.10-16.07.44:030][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.12.10-16.07.44:034][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.07.44:044][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.10-16.07.44:130][904]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.12.10-16.07.54:967][523]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.10-16.07.58:045][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.07.58:106][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.10-16.07.58:169][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.12.10-16.07.58:815][694]LogSavePackage: Moving output files for package: /Game/LVL1
+[2025.12.10-16.07.58:816][694]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL18114BBA64C3C6A285AEECC9550E8AB55.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap'
+[2025.12.10-16.07.58:830][694]LogFileHelpers: Saving map 'LVL1' took 0.725
+[2025.12.10-16.07.58:840][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 794.127 ms (total: 5.28 sec)
+[2025.12.10-16.07.58:921][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.07.58:921][694]LogContentValidation: Enabled validators:
+[2025.12.10-16.07.58:921][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.07.58:921][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.07.58:921][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.07.58:921][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.07.58:921][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.07.58:921][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.07.58:921][694]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-16.08.04:850][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.08.04:857][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.08.04:857][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.08.04:977][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120245s)
+[2025.12.10-16.08.04:977][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.120285s)
+[2025.12.10-16.08.05:020][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.12.10-16.08.05:022][ 44]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.08.05:023][ 44]LogPlayLevel: PIE: World Init took: (0.001970s)
+[2025.12.10-16.08.05:024][ 44]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.08.05:024][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.08.05:024][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.08.05:024][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.08.05:024][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.08.05:024][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.08.05:027][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.08.05:046][ 44]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-16.08.05:047][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.08.05:047][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.08.05:047][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.08.05:047][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.12.10-16.08.05:047][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.12.10-16.08.05:051][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.12.10-16.08.05:051][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.12.10-16.08.05:051][ 44]LogInit: FAudioDevice initialized with ID 18.
+[2025.12.10-16.08.05:051][ 44]LogAudio: Display: Audio Device (ID: 18) registered with world 'LVL1'.
+[2025.12.10-16.08.05:051][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.10-16.08.05:055][ 44]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.08.05:084][ 44]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.08.05
+[2025.12.10-16.08.05:085][ 44]LogWorld: Bringing up level for play took: 0.029130
+[2025.12.10-16.08.05:088][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.12.10-16.08.05:093][ 44]PIE: Server logged in
+[2025.12.10-16.08.05:096][ 44]PIE: Play in editor total start time 0,239 seconds.
+[2025.12.10-16.08.22:505][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.08.22:506][ 85]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.08.22:506][ 85]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.08.22:513][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.08.22:517][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.08.22:522][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.08.22:582][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.08.22:585][ 85]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.10-16.08.22:585][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.12.10-16.08.22:588][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.12.10-16.08.22:602][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.10-16.08.22:676][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.12.10-16.08.44:210][ 77]Cmd: TRANSACTION UNDO
+[2025.12.10-16.08.44:210][ 77]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.12.10-16.08.44:319][ 77]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.44:319][ 77]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.45:556][129]Cmd: TRANSACTION UNDO
+[2025.12.10-16.08.45:556][129]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.12.10-16.08.45:660][129]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.45:661][129]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.46:196][156]Cmd: TRANSACTION UNDO
+[2025.12.10-16.08.46:196][156]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.12.10-16.08.46:299][156]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.46:302][156]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.46:768][179]Cmd: TRANSACTION UNDO
+[2025.12.10-16.08.46:768][179]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.12.10-16.08.46:871][179]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.08.46:874][179]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.09.04:478][105]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.09.04:485][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.09.04:525][105]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.09.04:640][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116174s)
+[2025.12.10-16.09.04:640][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.116227s)
+[2025.12.10-16.09.04:706][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.10-16.09.04:711][105]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.09.04:713][105]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2025.12.10-16.09.04:714][105]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.09.04:714][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.09.04:714][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.09.04:714][105]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.09.04:714][105]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.09.04:714][105]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.09.04:718][105]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.09.04:739][105]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-16.09.04:739][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.09.04:739][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.09.04:739][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.09.04:739][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.12.10-16.09.04:739][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.12.10-16.09.04:743][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.12.10-16.09.04:743][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.12.10-16.09.04:743][105]LogInit: FAudioDevice initialized with ID 19.
+[2025.12.10-16.09.04:743][105]LogAudio: Display: Audio Device (ID: 19) registered with world 'LVL1'.
+[2025.12.10-16.09.04:743][105]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.10-16.09.04:749][105]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.09.04:779][105]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.09.04
+[2025.12.10-16.09.04:779][105]LogWorld: Bringing up level for play took: 0.029652
+[2025.12.10-16.09.04:782][105]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.12.10-16.09.04:788][105]PIE: Server logged in
+[2025.12.10-16.09.04:791][105]PIE: Play in editor total start time 0,305 seconds.
+[2025.12.10-16.09.20:354][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.09.20:354][ 35]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.09.20:355][ 35]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.09.20:362][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.09.20:366][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.09.20:372][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.09.20:435][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-16.09.20:435][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.10-16.09.20:435][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.12.10-16.09.20:439][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.12.10-16.09.20:444][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.09.20:454][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.12.10-16.09.20:518][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.12.10-16.09.44:728][332]Cmd: TRANSACTION UNDO
+[2025.12.10-16.09.44:728][332]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.09.44:832][332]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.09.44:835][332]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.09.50:475][593]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.09.50:484][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.09.50:484][593]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.09.50:604][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120119s)
+[2025.12.10-16.09.50:604][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.120162s)
+[2025.12.10-16.09.50:668][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.10-16.09.50:672][593]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.09.50:675][593]LogPlayLevel: PIE: World Init took: (0.002364s)
+[2025.12.10-16.09.50:675][593]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.12.10-16.09.50:675][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.09.50:676][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.09.50:676][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.09.50:676][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.09.50:676][593]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.09.50:676][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.09.50:676][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.09.50:676][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.09.50:676][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.09.50:676][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.09.50:676][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.09.50:679][593]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.09.50:699][593]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-16.09.50:700][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.09.50:700][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.09.50:700][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.09.50:700][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.12.10-16.09.50:700][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.12.10-16.09.50:704][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.12.10-16.09.50:704][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.12.10-16.09.50:704][593]LogInit: FAudioDevice initialized with ID 20.
+[2025.12.10-16.09.50:704][593]LogAudio: Display: Audio Device (ID: 20) registered with world 'LVL1'.
+[2025.12.10-16.09.50:704][593]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.10-16.09.50:711][593]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.09.50:741][593]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.09.50
+[2025.12.10-16.09.50:742][593]LogWorld: Bringing up level for play took: 0.030808
+[2025.12.10-16.09.50:747][593]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.12.10-16.09.50:752][593]PIE: Server logged in
+[2025.12.10-16.09.50:756][593]PIE: Play in editor total start time 0,273 seconds.
+[2025.12.10-16.10.04:985][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.10.04:985][440]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.10.04:985][440]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.10.04:994][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.10.04:996][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.10.05:002][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.10.05:064][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-16.10.05:064][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.10-16.10.05:064][440]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.12.10-16.10.05:067][440]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.12.10-16.10.05:074][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.10.05:082][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.10-16.10.05:154][441]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.12.10-16.13.06:030][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8411.722656
+[2025.12.10-16.13.06:163][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.13.06:163][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8411.840820, Update Interval: 310.212097
+[2025.12.10-16.18.46:267][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.10-16.18.46:272][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_0 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_1 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_2 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_3 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_4 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_5 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_6 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_7 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_8 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_9 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_10 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_11 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_12 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_13 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_14 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_15 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_16 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_17 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_18 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_19 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:325][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_20 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_21 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_22 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_23 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_24 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_25 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_26 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_27 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_28 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_29 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_30 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_31 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_32 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_33 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_34 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_35 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_36 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_37 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_38 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_39 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_40 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_41 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_42 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_43 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_44 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_45 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_46 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_47 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_48 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_49 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_50 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_51 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_52 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_53 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_54 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_55 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_56 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_57 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_58 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_59 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_60 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_61 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_62 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:326][260]LogLandscape: Display: The component /Game/LVL1.LVL1:PersistentLevel.Landscape_14.LandscapeComponent_63 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=15.000 Y=15.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=15.000 Y=15.000 Z=1.000))
+[2025.12.10-16.18.46:338][260]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.18.46:342][260]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.18.46:905][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto6
+[2025.12.10-16.18.46:905][260]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto6934EF7E04BD5C45377F656BA996A89DD.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto6.umap'
+[2025.12.10-16.18.46:907][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.717
+[2025.12.10-16.18.46:907][260]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.717
+[2025.12.10-16.18.53:110][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8758.894531
+[2025.12.10-16.18.53:261][639]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.18.53:262][639]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8759.030273, Update Interval: 312.962433
+[2025.12.10-16.20.47:324][ 86]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.25.04:332][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9130.305664
+[2025.12.10-16.25.04:560][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.25.04:560][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9130.517578, Update Interval: 332.494873
+[2025.12.10-16.25.43:141][452]Cmd: TRANSACTION UNDO
+[2025.12.10-16.25.43:141][452]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.25.43:243][452]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.25.43:243][452]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.25.45:365][544]Cmd: TRANSACTION UNDO
+[2025.12.10-16.25.45:365][544]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.26.52:784][863]Cmd: TRANSACTION UNDO
+[2025.12.10-16.26.52:784][863]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.26.52:883][863]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.26.52:883][863]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.26.55:073][967]Cmd: TRANSACTION UNDO
+[2025.12.10-16.26.55:073][967]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.12.10-16.27.08:001][609]Cmd: TRANSACTION UNDO
+[2025.12.10-16.27.08:001][609]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.12.10-16.27.08:098][609]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.27.08:099][609]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_14.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.27.52:708][952]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_15.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.29.08:192][928]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.29.08:199][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.29.08:199][928]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.29.08:330][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130448s)
+[2025.12.10-16.29.08:330][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.130499s)
+[2025.12.10-16.29.08:392][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.12.10-16.29.08:399][928]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.29.08:401][928]LogPlayLevel: PIE: World Init took: (0.002165s)
+[2025.12.10-16.29.08:402][928]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.29.08:402][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.29.08:402][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.29.08:402][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.29.08:402][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.29.08:402][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.29.08:406][928]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.29.08:426][928]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-16.29.08:426][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.29.08:426][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.29.08:426][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.29.08:427][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.12.10-16.29.08:427][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.12.10-16.29.08:430][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.12.10-16.29.08:430][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.12.10-16.29.08:430][928]LogInit: FAudioDevice initialized with ID 21.
+[2025.12.10-16.29.08:430][928]LogAudio: Display: Audio Device (ID: 21) registered with world 'LVL1'.
+[2025.12.10-16.29.08:430][928]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.10-16.29.08:436][928]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.29.08:468][928]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.29.08
+[2025.12.10-16.29.08:468][928]LogWorld: Bringing up level for play took: 0.031791
+[2025.12.10-16.29.08:471][928]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.12.10-16.29.08:476][928]PIE: Server logged in
+[2025.12.10-16.29.08:479][928]PIE: Play in editor total start time 0,281 seconds.
+[2025.12.10-16.29.59:135][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.29.59:136][963]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.29.59:136][963]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.29.59:145][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.29.59:147][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.29.59:155][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.29.59:228][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-16.29.59:228][963]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.10-16.29.59:228][963]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.12.10-16.29.59:233][963]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.12.10-16.29.59:237][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.29.59:246][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.10-16.29.59:331][964]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.12.10-16.30.02:808][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-16.30.02:816][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-16.30.02:817][170]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.10-16.30.02:953][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136060s)
+[2025.12.10-16.30.02:953][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.136106s)
+[2025.12.10-16.30.03:002][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.12.10-16.30.03:004][170]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.10-16.30.03:006][170]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2025.12.10-16.30.03:006][170]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-16.30.03:006][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-16.30.03:006][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-16.30.03:006][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-16.30.03:007][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-16.30.03:007][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-16.30.03:009][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-16.30.03:028][170]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.10-16.30.03:030][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-16.30.03:030][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-16.30.03:030][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-16.30.03:030][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.12.10-16.30.03:030][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.12.10-16.30.03:033][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.12.10-16.30.03:033][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.12.10-16.30.03:033][170]LogInit: FAudioDevice initialized with ID 22.
+[2025.12.10-16.30.03:033][170]LogAudio: Display: Audio Device (ID: 22) registered with world 'LVL1'.
+[2025.12.10-16.30.03:033][170]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.10-16.30.03:038][170]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2025.12.10-16.30.03:071][170]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.10-17.30.03
+[2025.12.10-16.30.03:071][170]LogWorld: Bringing up level for play took: 0.031951
+[2025.12.10-16.30.03:074][170]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.12.10-16.30.03:079][170]PIE: Server logged in
+[2025.12.10-16.30.03:082][170]PIE: Play in editor total start time 0,266 seconds.
+[2025.12.10-16.30.05:264][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.30.05:264][297]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.10-16.30.05:266][297]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-16.30.05:273][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.30.05:277][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-16.30.05:282][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-16.30.05:348][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-16.30.05:353][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.10-16.30.05:353][297]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.12.10-16.30.05:355][297]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.12.10-16.30.05:368][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.10-16.30.05:453][298]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.12.10-16.31.33:252][345]Cmd: DELETE
+[2025.12.10-16.31.33:252][345]Cmd: ACTOR DELETE
+[2025.12.10-16.31.33:300][345]LogEditorActor: Deleted Actor: Landscape
+[2025.12.10-16.31.33:399][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.12.10-16.31.33:402][345]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2025.12.10-16.31.35:791][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9521.721680
+[2025.12.10-16.31.35:941][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.31.35:941][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9521.854492, Update Interval: 313.947571
+[2025.12.10-16.31.35:964][490]Cmd: EDIT COPY
+[2025.12.10-16.31.36:216][499]Cmd: EDIT PASTE
+[2025.12.10-16.31.36:393][499]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_17.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.31.36:464][499]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_17.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-16.31.39:335][608]Cmd: TRANSACTION UNDO
+[2025.12.10-16.31.39:335][608]LogEditorTransaction: Undo Move Elements
+[2025.12.10-16.32.18:224][849]Cmd: EDIT COPY
+[2025.12.10-16.32.18:434][853]Cmd: EDIT PASTE
+[2025.12.10-16.33.04:796][389]Cmd: TRANSACTION UNDO
+[2025.12.10-16.33.04:796][389]LogEditorTransaction: Undo Scale Elements
+[2025.12.10-16.34.40:759][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.34.40:854][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.10-16.34.40:966][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.10-16.34.41:044][192]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_19.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.34.41:048][192]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_19.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-16.34.41:931][192]LogSavePackage: Moving output files for package: /Game/LVL1
+[2025.12.10-16.34.41:931][192]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1B048623D4939CD48671918AC34FBB7D4.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap'
+[2025.12.10-16.34.41:949][192]LogFileHelpers: Saving map 'LVL1' took 1.097
+[2025.12.10-16.34.41:959][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.20 sec (total: 6.48 sec)
+[2025.12.10-16.34.42:060][192]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.34.42:061][192]LogContentValidation: Enabled validators:
+[2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.34.42:061][192]AssetCheck: /Game/LVL1 Validating asset
