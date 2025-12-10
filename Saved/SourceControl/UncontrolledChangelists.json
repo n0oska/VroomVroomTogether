@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/m_saakachvili/Documents/GitHub/VroomVroomTogether/Content/Main_Menu/NewWorld.umap",
+				"C:/Users/m_saakachvili/Documents/GitHub/VroomVroomTogether/Content/Main_Menu/Main_Menu.umap",
+				"C:/Users/m_saakachvili/Documents/GitHub/VroomVroomTogether/Content/Main_Menu/BP_PCMainMenu.uasset",
+				"C:/Users/m_saakachvili/Documents/GitHub/VroomVroomTogether/Content/Main_Menu/WBP_MainMenu.uasset"
+			]
+		}
+	]
+}
