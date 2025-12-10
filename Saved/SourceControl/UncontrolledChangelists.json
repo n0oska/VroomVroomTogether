@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/DQ/MMWI7ERC56SPY4Y58B5ARV.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/ML/IKPL8TZIPJD28W1PES33RZ.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/L2/7C3FAMOHSOPU7A57XNKWM5.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/JB/6MFQKMD9JKGY7WR6DZ02W5.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/KR/NYLCWHFQIFXAXOEE5OY5PA.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/TR/JDAS2BYQS8QNOU3GTTKZIQ.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/AW/9C8I9TFBGJO0WM04UO7ECN.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/LA/MVLADTLWPLDK5UI9E6SM5A.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/X3/ZXVNZQKWDIN057XW1723FF.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/E3/URKYL4RK553C9RVTJVBNLP.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/3L/H8SFOXQBW9GAV85EXV3YS5.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/3/NJ/IM5YPGT0E6WE7AYTOZ3UNC.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/XY/IRFETA0UYNCV87K2C3HDMM.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/A/YC/YW82N4A0QU6HIJ1BJBMQB2.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/AW/ZULI1FKGDFBUKW3K788V7H.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/YP/D5ZR4V8RE2R5FHEQZE41DH.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/5/ZZ/2L7S87T216K8YAAHBBGRE6.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/V2/N2V1SU6HVRQ28BUX99P5WN.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/IX/WL75G2PB4RPN922SMZAKP8.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/57/HCO3PCQWXOMC4DODY0TTTX.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/KK/DSY7GP08OTQH8S2YBI8N1S.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/XW/47O6NVVE9TA4ZL43QW0COI.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/BF/JIPDS32CDS3P5H9EJQK65T.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/C/V7/TBU6VE2VXRUQ4RVDXL4X87.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/BM/HZP3S6DQ02KGHX8S9H3CSP.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/R1/8B55O032FNIP1GR6359964.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/6/59/KU1E31UXPR836QBVMACSJG.uasset",
+				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/IA/BQJVMGBXHLCJYR5KVX1T90.uasset"
+			]
+		}
+	]
+}
