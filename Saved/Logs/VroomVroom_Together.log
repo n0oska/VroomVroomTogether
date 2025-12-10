@@ -3613,3 +3613,52 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-16.34.42:061][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-16.34.42:061][192]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.10-16.35.21:272][350]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.12.10-16.35.21:272][350]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{1a2cb29b-06f4-4872-a18d-0c6ab7bdd735}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.10-16.35.21:305][350]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{1a2cb29b-06f4-4872-a18d-0c6ab7bdd735}]
+[2025.12.10-16.35.21:305][350]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.10-16.35.21:305][350]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.10-16.35.21:975][352]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1a2cb29b-06f4-4872-a18d-0c6ab7bdd735}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=664.65
+[2025.12.10-16.35.21:975][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.10-16.35.21:975][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.10-16.35.21:977][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.10-16.37.33:327][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9879.269531
+[2025.12.10-16.37.34:327][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.37.34:327][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9879.937500, Update Interval: 336.594757
+[2025.12.10-16.43.49:691][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10255.616211
+[2025.12.10-16.43.50:691][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-16.43.50:691][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10256.282227, Update Interval: 342.976166
+[2025.12.10-16.44.21:923][274]Cmd: TRANSACTION UNDO
+[2025.12.10-16.44.21:923][274]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.10-16.44.22:048][274]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_19.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-16.44.39:202][231]Cmd: EDIT COPY
+[2025.12.10-16.44.39:424][237]Cmd: EDIT PASTE
+[2025.12.10-16.44.39:901][237]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_21.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.10-16.44.39:970][237]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_21.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.10-16.44.40:758][237]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_22.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.45.09:434][849]Cmd: TRANSACTION UNDO
+[2025.12.10-16.45.09:434][849]LogEditorTransaction: Undo Move Elements
+[2025.12.10-16.45.46:478][ 26]Cmd: EDIT COPY
+[2025.12.10-16.45.46:713][ 31]Cmd: EDIT PASTE
+[2025.12.10-16.46.42:218][ 44]Cmd: EDIT COPY
+[2025.12.10-16.46.42:475][ 55]Cmd: EDIT PASTE
+[2025.12.10-16.47.56:881][919]Cmd: EDIT COPY
+[2025.12.10-16.47.57:130][927]Cmd: EDIT PASTE
+[2025.12.10-16.47.58:073][927]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_26.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.10-16.47.58:198][927]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_26.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.10-16.48.23:665][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-16.48.23:752][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.10-16.48.23:896][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.12.10-16.48.25:283][293]LogSavePackage: Moving output files for package: /Game/LVL1
+[2025.12.10-16.48.25:283][293]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1438245A0467A51D71F3E50B977B0F156.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap'
+[2025.12.10-16.48.25:303][293]LogFileHelpers: Saving map 'LVL1' took 1.553
+[2025.12.10-16.48.25:313][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.64 sec (total: 8.13 sec)
+[2025.12.10-16.48.25:413][293]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-16.48.25:413][293]LogContentValidation: Enabled validators:
+[2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-16.48.25:413][293]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-16.48.25:413][293]AssetCheck: /Game/LVL1 Validating asset
