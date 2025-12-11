@@ -3370,3 +3370,57 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.12.11-14.35.50:099][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Game_Ready___Free_Christmas_Tree_Balls/game_ready_free_christmas_tree_balls/StaticMeshes/game_ready_free_christmas_tree_balls_Auto4
 [2025.12.11-14.35.50:100][608]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/game_ready_free_christmas_tree_bA1D493484787F75B6A7B3A90F49CB09C.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/Fab/Game_Ready___Free_Christmas_Tree_Balls/game_ready_free_christmas_tree_balls/StaticMeshes/game_ready_free_christmas_tree_balls_Auto4.uasset'
 [2025.12.11-14.35.50:100][608]LogFileHelpers: Auto-saving content packages took 0.684
+[2025.12.11-14.39.38:659][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3190.718994
+[2025.12.11-14.39.38:809][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-14.39.38:809][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3190.852295, Update Interval: 355.592529
+[2025.12.11-14.40.29:624][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.40.29:708][ 41]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Car/BP_Car] ([2] browsable assets)...
+[2025.12.11-14.40.29:728][ 41]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Car/BP_Car.BP_Car]
+[2025.12.11-14.40.29:728][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Car/BP_Car]
+[2025.12.11-14.40.29:728][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Car/BP_Car" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset" SILENT=true
+[2025.12.11-14.40.29:742][ 41]LogSavePackage: Moving output files for package: /Game/BP/BP_Car/BP_Car
+[2025.12.11-14.40.29:742][ 41]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/BP_Car048D63DC4506291E423796896B010E3D.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset'
+[2025.12.11-14.40.29:752][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.010 ms (total: 734.056 ms)
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: Enabled validators:
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.40.29:839][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.40.29:839][ 41]AssetCheck: /Game/BP/BP_Car/BP_Car Validating asset
+[2025.12.11-14.40.29:978][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.40.30:038][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Car/BP_Car] ([2] browsable assets)...
+[2025.12.11-14.40.30:038][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Car/BP_Car]
+[2025.12.11-14.40.30:038][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Car/BP_Car" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset" SILENT=true
+[2025.12.11-14.40.30:051][ 49]LogSavePackage: Moving output files for package: /Game/BP/BP_Car/BP_Car
+[2025.12.11-14.40.30:051][ 49]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/BP_Car196B75994E44CBA74BD5E3B0890D752D.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset'
+[2025.12.11-14.40.30:060][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.803 ms (total: 815.860 ms)
+[2025.12.11-14.40.30:138][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: Enabled validators:
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.40.30:139][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.40.30:139][ 49]AssetCheck: /Game/BP/BP_Car/BP_Car Validating asset
+[2025.12.11-14.40.30:163][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.40.30:220][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Car/BP_Car] ([2] browsable assets)...
+[2025.12.11-14.40.30:220][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Car/BP_Car]
+[2025.12.11-14.40.30:220][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Car/BP_Car" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset" SILENT=true
+[2025.12.11-14.40.30:231][ 50]LogSavePackage: Moving output files for package: /Game/BP/BP_Car/BP_Car
+[2025.12.11-14.40.30:232][ 50]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/BP_Car8505BC8641F15F5C8862E2964A19D282.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset'
+[2025.12.11-14.40.30:242][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.084 ms (total: 894.945 ms)
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: Enabled validators:
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.40.30:321][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.40.30:321][ 50]AssetCheck: /Game/BP/BP_Car/BP_Car Validating asset
+[2025.12.11-14.40.31:200][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.11-14.40.31:394][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
