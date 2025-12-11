@@ -1,14 +1,2 @@
-[1210/164537.931:ERROR:backend_impl.cc(1041)] Critical error found -8
-[1210/164538.146:WARNING:storage_block-inl.h(146)] Failed data load.
-[1210/164629.376:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[1210/164708.943:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[1210/164709.146:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[1210/164737.527:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1211/144939.650:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
+[1211/144941.021:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
