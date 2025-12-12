@@ -6,6 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_GameControl/GM_Vehicle.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/LVL1.umap",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Camera/BP_test.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_GameControl/BP_Input/IMC/IMC_Vehicle_Default1.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Camera/BP_Link.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Link.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Slippry.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car2.uasset",
+				"C:/Users/n_touchet/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_CableComponent.uasset",
 				"C:/Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/BP_Car/BP_Car.uasset"
 			]
 		}
