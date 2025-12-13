@@ -21752,3 +21752,618 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.12.13-18.09.39:197][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3926.670166
 [2025.12.13-18.09.40:197][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.13-18.09.40:197][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3927.337402, Update Interval: 343.582275
+[2025.12.13-18.15.54:222][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4301.697266
+[2025.12.13-18.15.55:223][978]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.13-18.15.55:223][978]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4302.364746, Update Interval: 353.649719
+[2025.12.13-18.17.17:234][766]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.17:234][766]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.17.17:340][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_49 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:343][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_34 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:344][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_58 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:345][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_44 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:345][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_43 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:345][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_38 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:345][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_36 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.17:347][766]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Weightmap_42 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.18:654][822]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.18:654][822]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.17.27:610][305]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.27:610][305]LogEditorTransaction: Undo Move Elements
+[2025.12.13-18.17.28:305][321]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.28:305][321]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.12.13-18.17.28:956][349]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.28:956][349]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.12.13-18.17.43:033][ 33]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.43:034][ 33]LogEditorTransaction: Undo Landscape Editing: Noise
+[2025.12.13-18.17.43:149][ 33]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_3.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.13-18.17.43:767][ 49]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.43:767][ 49]LogEditorTransaction: Undo Landscape Editing: Noise
+[2025.12.13-18.17.54:153][626]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.54:153][626]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.17.59:906][928]Cmd: TRANSACTION UNDO
+[2025.12.13-18.17.59:906][928]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.18.08:381][397]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'AssetThumbnail.Border'.'
+[2025.12.13-18.18.12:252][574]Cmd: TRANSACTION UNDO
+[2025.12.13-18.18.12:252][574]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.18.54:886][ 36]Cmd: DELETE
+[2025.12.13-18.18.54:886][ 36]Cmd: ACTOR DELETE
+[2025.12.13-18.18.54:952][ 36]LogEditorActor: Deleted Actor: Landscape
+[2025.12.13-18.18.55:083][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.13-18.18.55:086][ 36]LogEditorActor: Deleted 1 Actors (0.199 secs)
+[2025.12.13-18.20.30:481][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.12.13-18.20.30:485][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.13-18.20.31:118][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto4
+[2025.12.13-18.20.31:118][249]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto43060640F43CBB9D2FE0098A06E9FE4AD.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto4.umap'
+[2025.12.13-18.20.31:122][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.706
+[2025.12.13-18.20.31:122][249]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.706
+[2025.12.13-18.22.37:175][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4704.655762
+[2025.12.13-18.22.38:175][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.13-18.22.38:175][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4705.322754, Update Interval: 334.355286
+[2025.12.13-18.23.08:615][128]Cmd: DELETE
+[2025.12.13-18.23.08:615][128]Cmd: ACTOR DELETE
+[2025.12.13-18.23.08:616][128]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.12.13-18.23.08:677][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.08:734][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.13-18.23.08:737][128]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2025.12.13-18.23.09:176][150]Cmd: DELETE
+[2025.12.13-18.23.09:176][150]Cmd: ACTOR DELETE
+[2025.12.13-18.23.09:236][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.09:286][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.13-18.23.09:289][150]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2025.12.13-18.23.10:521][219]Cmd: DELETE
+[2025.12.13-18.23.10:522][219]Cmd: ACTOR DELETE
+[2025.12.13-18.23.10:583][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.10:633][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.13-18.23.10:637][219]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2025.12.13-18.23.11:446][262]Cmd: DELETE
+[2025.12.13-18.23.11:446][262]Cmd: ACTOR DELETE
+[2025.12.13-18.23.11:506][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.11:559][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.13-18.23.11:563][262]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2025.12.13-18.23.12:082][288]Cmd: DELETE
+[2025.12.13-18.23.12:082][288]Cmd: ACTOR DELETE
+[2025.12.13-18.23.12:142][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.12:194][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.13-18.23.12:198][288]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2025.12.13-18.23.13:085][336]Cmd: DELETE
+[2025.12.13-18.23.13:085][336]Cmd: ACTOR DELETE
+[2025.12.13-18.23.13:146][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.13:198][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.13-18.23.13:201][336]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2025.12.13-18.23.13:639][357]Cmd: DELETE
+[2025.12.13-18.23.13:640][357]Cmd: ACTOR DELETE
+[2025.12.13-18.23.13:699][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.13:757][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.13-18.23.13:761][357]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2025.12.13-18.23.14:567][400]Cmd: DELETE
+[2025.12.13-18.23.14:567][400]Cmd: ACTOR DELETE
+[2025.12.13-18.23.14:628][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.14:679][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.13-18.23.14:682][400]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2025.12.13-18.23.15:239][428]Cmd: DELETE
+[2025.12.13-18.23.15:240][428]Cmd: ACTOR DELETE
+[2025.12.13-18.23.15:300][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.15:358][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.13-18.23.15:361][428]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2025.12.13-18.23.15:719][444]Cmd: DELETE
+[2025.12.13-18.23.15:719][444]Cmd: ACTOR DELETE
+[2025.12.13-18.23.15:778][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.15:831][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.13-18.23.15:836][444]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2025.12.13-18.23.16:412][475]Cmd: DELETE
+[2025.12.13-18.23.16:412][475]Cmd: ACTOR DELETE
+[2025.12.13-18.23.16:472][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.16:528][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.13-18.23.16:533][475]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2025.12.13-18.23.18:185][565]Cmd: DELETE
+[2025.12.13-18.23.18:185][565]Cmd: ACTOR DELETE
+[2025.12.13-18.23.18:247][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.18:300][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.13-18.23.18:303][565]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2025.12.13-18.23.19:046][606]Cmd: DELETE
+[2025.12.13-18.23.19:047][606]Cmd: ACTOR DELETE
+[2025.12.13-18.23.19:106][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.19:157][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.13-18.23.19:161][606]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2025.12.13-18.23.36:040][556]Cmd: DELETE
+[2025.12.13-18.23.36:040][556]Cmd: ACTOR DELETE
+[2025.12.13-18.23.36:100][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.13-18.23.36:158][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.13-18.23.36:161][556]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2025.12.13-18.24.06:503][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/MovingPlateforme.MovingPlateforme
+[2025.12.13-18.24.06:506][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.13-18.24.06:740][363]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.13-18.24.11:498][506]LogSlate: Window 'MovingPlateforme' being destroyed
+[2025.12.13-18.25.41:038][816]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.13-18.25.51:124][402]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.13-18.26.10:739][564]LogEditorTransaction: Undo Modify Component Scale
+[2025.12.13-18.26.30:865][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.12.13-18.26.49:910][986]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.13-18.28.18:013][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.13-18.28.18:074][178]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/MovingPlateforme] ([2] browsable assets)...
+[2025.12.13-18.28.18:093][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/MovingPlateforme.MovingPlateforme]
+[2025.12.13-18.28.18:094][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MovingPlateforme]
+[2025.12.13-18.28.18:094][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/MovingPlateforme" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset" SILENT=true
+[2025.12.13-18.28.18:105][178]LogSavePackage: Moving output files for package: /Game/BP/MovingPlateforme
+[2025.12.13-18.28.18:105][178]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/MovingPlateforme3B9666C0447C28129D8B40B21D04AED8.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset'
+[2025.12.13-18.28.18:115][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.503 ms (total: 204.856 ms)
+[2025.12.13-18.28.18:206][178]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.13-18.28.18:207][178]LogContentValidation: Enabled validators:
+[2025.12.13-18.28.18:207][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.13-18.28.18:207][178]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.13-18.28.18:207][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.13-18.28.18:207][178]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.13-18.28.18:207][178]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.13-18.28.18:207][178]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.13-18.28.18:207][178]AssetCheck: /Game/BP/MovingPlateforme Validating asset
+[2025.12.13-18.29.02:628][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5090.086426
+[2025.12.13-18.29.02:794][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.13-18.29.02:794][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5090.235840, Update Interval: 318.420959
+[2025.12.13-18.29.03:297][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.13-18.29.05:466][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.13-18.29.05:645][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.13-18.29.07:688][977]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/MovingPlateforme.MovingPlateforme_C
+[2025.12.13-18.29.07:688][977]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/MovingPlateforme.MovingPlateforme_C
+[2025.12.13-18.29.07:692][977]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/MovingPlateforme.MovingPlateforme as actor: MovingPlateforme_C /Game/LVL1.LVL1:PersistentLevel.MovingPlateforme_C_0
+[2025.12.13-18.29.07:693][977]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/MovingPlateforme.MovingPlateforme as actor: MovingPlateforme_C /Game/LVL1.LVL1:PersistentLevel.MovingPlateforme_C_0
+[2025.12.13-18.29.08:486][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.12.13-18.29.08:489][ 21]LogEditorActor: Deleted 0 Actors (0.058 secs)
+[2025.12.13-18.29.08:494][ 21]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/MovingPlateforme.MovingPlateforme_C
+[2025.12.13-18.29.08:494][ 21]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/MovingPlateforme.MovingPlateforme_C
+[2025.12.13-18.29.08:498][ 21]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/MovingPlateforme.MovingPlateforme as actor: MovingPlateforme_C /Game/LVL1.LVL1:PersistentLevel.MovingPlateforme_C_1
+[2025.12.13-18.29.08:499][ 21]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/MovingPlateforme.MovingPlateforme as actor: MovingPlateforme_C /Game/LVL1.LVL1:PersistentLevel.MovingPlateforme_C_1
+[2025.12.13-18.29.35:850][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.13-18.29.35:940][635]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/MovingPlateforme] ([2] browsable assets)...
+[2025.12.13-18.29.35:958][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/MovingPlateforme.MovingPlateforme]
+[2025.12.13-18.29.35:958][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MovingPlateforme]
+[2025.12.13-18.29.35:958][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/MovingPlateforme" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset" SILENT=true
+[2025.12.13-18.29.35:967][635]LogSavePackage: Moving output files for package: /Game/BP/MovingPlateforme
+[2025.12.13-18.29.35:967][635]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/MovingPlateforme73EB0D7040818112537345BBEEDAA786.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset'
+[2025.12.13-18.29.35:979][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.022 ms (total: 332.878 ms)
+[2025.12.13-18.29.36:051][635]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.13-18.29.36:051][635]LogContentValidation: Enabled validators:
+[2025.12.13-18.29.36:052][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.13-18.29.36:052][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.13-18.29.36:052][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.13-18.29.36:052][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.13-18.29.36:052][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.13-18.29.36:052][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.13-18.29.36:052][635]AssetCheck: /Game/BP/MovingPlateforme Validating asset
+[2025.12.13-18.29.45:150][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.13-18.29.45:177][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.13-18.29.45:217][170]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.13-18.29.45:338][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120637s)
+[2025.12.13-18.29.45:338][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.121557s)
+[2025.12.13-18.29.45:397][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.12.13-18.29.45:402][170]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.13-18.29.45:404][170]LogPlayLevel: PIE: World Init took: (0.002179s)
+[2025.12.13-18.29.45:405][170]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.13-18.29.45:405][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.13-18.29.45:405][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.13-18.29.45:406][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.13-18.29.45:406][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.13-18.29.45:406][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.13-18.29.45:409][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.13-18.29.45:432][170]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.13-18.29.45:432][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.13-18.29.45:432][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.13-18.29.45:432][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.13-18.29.45:433][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.12.13-18.29.45:433][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.12.13-18.29.45:436][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.12.13-18.29.45:436][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.12.13-18.29.45:436][170]LogInit: FAudioDevice initialized with ID 20.
+[2025.12.13-18.29.45:436][170]LogAudio: Display: Audio Device (ID: 20) registered with world 'LVL1'.
+[2025.12.13-18.29.45:436][170]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.13-18.29.45:447][170]LogLoad: Game class is 'GM_Vehicle_C'
+[2025.12.13-18.29.45:479][170]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.13-19.29.45
+[2025.12.13-18.29.45:482][170]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.12.13-18.29.45:485][170]LogWorld: Bringing up level for play took: 0.036898
+[2025.12.13-18.29.45:495][170]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.12.13-18.29.45:495][170]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.12.13-18.29.45:502][170]LogPushModel: PushModel HandleCreation is now enabled
+[2025.12.13-18.29.45:502][170]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.12.13-18.29.45:504][170]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.12.13-18.29.45:504][170]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2025.12.13-18.29.45:505][170]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.12.13-18.29.45:505][170]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_17 IpNetDriver listening on port 17777
+[2025.12.13-18.29.45:586][170]PIE: Server logged in
+[2025.12.13-18.29.45:589][170]PIE: Play in editor total start time 0,427 seconds.
+[2025.12.13-18.29.46:443][215]LogBlueprintUserMessages: [BP_Link_C_1] Server: Hello
+[2025.12.13-18.30.06:536][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.13-18.30.06:536][148]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.13-18.30.06:538][148]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.13-18.30.06:549][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.13-18.30.06:553][148]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2025.12.13-18.30.06:553][148]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_17 
+[2025.12.13-18.30.06:555][148]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_17 shut down
+[2025.12.13-18.30.06:555][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.13-18.30.06:562][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.13-18.30.06:634][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.13-18.30.06:635][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.13-18.30.06:639][148]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.12.13-18.30.06:642][148]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.12.13-18.30.06:651][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.13-18.30.06:670][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.12.13-18.30.06:742][149]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.12.13-18.30.07:544][194]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.12.13-18.30.14:622][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.13-18.30.14:701][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/MovingPlateforme] ([2] browsable assets)...
+[2025.12.13-18.30.14:702][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MovingPlateforme]
+[2025.12.13-18.30.14:702][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/MovingPlateforme" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset" SILENT=true
+[2025.12.13-18.30.14:709][614]LogSavePackage: Moving output files for package: /Game/BP/MovingPlateforme
+[2025.12.13-18.30.14:709][614]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/MovingPlateforme931706C44327C41642F3D9BD4E5F0C04.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset'
+[2025.12.13-18.30.14:725][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.894 ms (total: 434.773 ms)
+[2025.12.13-18.30.14:815][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.13-18.30.14:815][614]LogContentValidation: Enabled validators:
+[2025.12.13-18.30.14:815][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.13-18.30.14:815][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.13-18.30.14:815][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.13-18.30.14:815][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.13-18.30.14:815][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.13-18.30.14:815][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.13-18.30.14:815][614]AssetCheck: /Game/BP/MovingPlateforme Validating asset
+[2025.12.13-18.30.39:511][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.13-18.30.39:602][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/MovingPlateforme] ([2] browsable assets)...
+[2025.12.13-18.30.39:602][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MovingPlateforme]
+[2025.12.13-18.30.39:602][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/MovingPlateforme" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset" SILENT=true
+[2025.12.13-18.30.39:609][ 90]LogSavePackage: Moving output files for package: /Game/BP/MovingPlateforme
+[2025.12.13-18.30.39:609][ 90]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/MovingPlateforme55FD5C0F4C06538A0810D2B35653B642.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Content/BP/MovingPlateforme.uasset'
+[2025.12.13-18.30.39:624][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.455 ms (total: 548.228 ms)
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: Enabled validators:
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.13-18.30.39:693][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.13-18.30.39:693][ 90]AssetCheck: /Game/BP/MovingPlateforme Validating asset
+[2025.12.13-18.31.22:490][574]Cmd: TRANSACTION UNDO
+[2025.12.13-18.31.22:490][574]LogEditorTransaction: Undo Move Elements
+[2025.12.13-18.31.47:508][960]Cmd: TRANSACTION UNDO
+[2025.12.13-18.31.47:508][960]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.13-18.32.04:877][959]Cmd: TRANSACTION UNDO
+[2025.12.13-18.32.04:877][959]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.12.13-18.33.12:633][861]Cmd: EDIT COPY
+[2025.12.13-18.33.12:850][874]Cmd: EDIT PASTE
+[2025.12.13-18.33.12:905][874]LogClass: Warning: Short type name "MovingPlateforme_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.33.12:912][874]LogClass: Warning: Short type name "MovingPlateforme_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.33.33:672][ 83]Cmd: EDIT COPY
+[2025.12.13-18.33.33:890][ 96]Cmd: EDIT PASTE
+[2025.12.13-18.33.33:902][ 96]LogClass: Warning: Short type name "MovingPlateforme_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.33.33:910][ 96]LogClass: Warning: Short type name "MovingPlateforme_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.33.53:616][251]Cmd: EDIT COPY
+[2025.12.13-18.33.53:815][263]Cmd: EDIT PASTE
+[2025.12.13-18.33.53:829][263]LogClass: Warning: Short type name "MovingPlateforme_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.33.53:836][263]LogClass: Warning: Short type name "MovingPlateforme_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.34.55:070][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5442.541504
+[2025.12.13-18.34.55:238][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.13-18.34.55:238][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5442.691895, Update Interval: 345.669739
+[2025.12.13-18.35.55:086][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.13-18.35.55:128][335]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.13-18.35.55:241][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112944s)
+[2025.12.13-18.35.55:241][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.113009s)
+[2025.12.13-18.35.55:415][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.12.13-18.35.55:423][335]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.13-18.35.55:425][335]LogPlayLevel: PIE: World Init took: (0.002632s)
+[2025.12.13-18.35.55:426][335]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.13-18.35.55:426][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.13-18.35.55:426][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.13-18.35.55:426][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.13-18.35.55:426][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.13-18.35.55:426][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.13-18.35.55:430][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.13-18.35.55:452][335]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.13-18.35.55:453][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.13-18.35.55:453][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.13-18.35.55:453][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.13-18.35.55:453][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.12.13-18.35.55:454][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.12.13-18.35.55:458][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.12.13-18.35.55:458][335]LogInit: FAudioDevice initialized with ID 21.
+[2025.12.13-18.35.55:458][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.12.13-18.35.55:458][335]LogAudio: Display: Audio Device (ID: 21) registered with world 'LVL1'.
+[2025.12.13-18.35.55:458][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.13-18.35.55:462][335]LogLoad: Game class is 'GM_Vehicle_C'
+[2025.12.13-18.35.55:491][335]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.13-19.35.55
+[2025.12.13-18.35.55:492][335]LogWorld: Bringing up level for play took: 0.028226
+[2025.12.13-18.35.55:495][335]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.12.13-18.35.55:505][335]PIE: Server logged in
+[2025.12.13-18.35.55:508][335]PIE: Play in editor total start time 0,422 seconds.
+[2025.12.13-18.35.56:376][374]LogBlueprintUserMessages: [BP_Link_C_1] Hello
+[2025.12.13-18.36.53:039][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.13-18.36.53:039][854]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.13-18.36.53:040][854]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.13-18.36.53:050][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.13-18.36.53:056][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.13-18.36.53:063][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.13-18.36.53:137][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.13-18.36.53:137][854]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.13-18.36.53:137][854]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.12.13-18.36.53:140][854]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.12.13-18.36.53:159][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.12.13-18.36.53:232][855]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.12.13-18.37.16:954][260]Cmd: EDIT COPY
+[2025.12.13-18.37.17:151][269]Cmd: EDIT PASTE
+[2025.12.13-18.38.06:221][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.13-18.38.06:231][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.13-18.38.06:268][  4]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2025.12.13-18.38.06:279][  4]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.12.13-18.38.06:287][  4]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_35.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.13-18.38.06:300][  4]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_35.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.13-18.38.06:991][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto5
+[2025.12.13-18.38.06:992][  4]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto57A0F5E7E461E43AB270B80A41E49E0D8.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto5.umap'
+[2025.12.13-18.38.07:000][  4]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.858
+[2025.12.13-18.38.07:000][  4]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.858
+[2025.12.13-18.38.07:000][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/MovingPlateforme] ([2] browsable assets)...
+[2025.12.13-18.38.07:000][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MovingPlateforme]
+[2025.12.13-18.38.07:007][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/MovingPlateforme_Auto5
+[2025.12.13-18.38.07:007][  4]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/MovingPlateforme_Auto54C95BEC2467DD425DE4E6FA3AE65CE70.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/BP/MovingPlateforme_Auto5.uasset'
+[2025.12.13-18.38.07:008][  4]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.12.13-18.41.18:151][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5825.616211
+[2025.12.13-18.41.18:316][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.13-18.41.18:316][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5825.765625, Update Interval: 320.008545
+[2025.12.13-18.43.41:158][587]Cmd: TRANSACTION UNDO
+[2025.12.13-18.43.41:158][587]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.43.45:452][810]Cmd: TRANSACTION UNDO
+[2025.12.13-18.43.45:452][810]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2025.12.13-18.43.49:726][ 34]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_0 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:935][223]Cmd: TRANSACTION UNDO
+[2025.12.13-18.43.52:935][223]LogEditorTransaction: Undo Landscape Editing: Region Selection
+[2025.12.13-18.43.52:967][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_10 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:969][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_5 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:970][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_4 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:972][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_9 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:972][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_3 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:974][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_2 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:976][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_7 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:977][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_0 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:977][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_11 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:977][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_14 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:978][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_13 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:978][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_1 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.52:978][223]LogTexture: Display: Building textures: /Game/LVL1.LVL1:PersistentLevel.Landscape_38.Texture2D_12 (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.028314 MB), EncodeSpeed: Fast
+[2025.12.13-18.43.56:081][339]Cmd: TRANSACTION UNDO
+[2025.12.13-18.43.56:081][339]LogEditorTransaction: Undo Landscape Editing: Region Selection
+[2025.12.13-18.44.00:123][571]Cmd: TRANSACTION UNDO
+[2025.12.13-18.44.00:125][571]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.13-18.44.00:525][574]Cmd: TRANSACTION UNDO
+[2025.12.13-18.44.00:525][574]LogEditorTransaction: Undo Landscape Editing: Erase
+[2025.12.13-18.45.17:581][238]Cmd: EDIT COPY
+[2025.12.13-18.45.17:748][248]Cmd: EDIT PASTE
+[2025.12.13-18.45.17:761][248]LogClass: Warning: Short type name "MovingPlateforme_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.17:769][248]LogClass: Warning: Short type name "MovingPlateforme_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.28:351][860]Cmd: EDIT COPY
+[2025.12.13-18.45.28:584][874]Cmd: EDIT PASTE
+[2025.12.13-18.45.28:597][874]LogClass: Warning: Short type name "MovingPlateforme_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.28:604][874]LogClass: Warning: Short type name "MovingPlateforme_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.43:864][763]Cmd: EDIT COPY
+[2025.12.13-18.45.44:047][774]Cmd: EDIT PASTE
+[2025.12.13-18.45.44:061][774]LogClass: Warning: Short type name "MovingPlateforme_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.44:068][774]LogClass: Warning: Short type name "MovingPlateforme_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.53:354][303]Cmd: EDIT COPY
+[2025.12.13-18.45.53:605][318]Cmd: EDIT PASTE
+[2025.12.13-18.45.53:617][318]LogClass: Warning: Short type name "MovingPlateforme_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.45.53:624][318]LogClass: Warning: Short type name "MovingPlateforme_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc3e37ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e67dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e3526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6f30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e601d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc3e6246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: ================================================
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Total job queries 742, among them cache hits 35 (4.72%), DDC hits 507 (68.33%), Duplicates 198 (26.68%)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 327 distinct outputs (64.24%)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: RAM used: 4,24 MiB of 819,20 MiB budget. Usage: 0.52%
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Average time worker was idle: 4517.79 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 1.63 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 1.74
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Shader code size: total 21,586 KiB, numShaders 3, average 7,195 KiB, min 4,621 KiB, max 9,211 KiB
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.32 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Average processing rate: 0.86 jobs/sec
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Total thread time: 1,361 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Total thread preprocess time: 15,045 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Percentage time preprocessing: 1105.36%
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.073229
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                  FVelocityPS - 53.81% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                  FVelocityVS - 25.11% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                  FHitProxyVS - 21.08% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: === Material stats ===
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Materials Translated:    169
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Material Translation Only: 0.08 s (45%)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2025.12.13-18.46.19:648][870]LogShaderCompilers: Display: ================================================
+[2025.12.13-18.47.32:848][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6200.303223
+[2025.12.13-18.47.33:849][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.13-18.47.33:849][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6200.969727, Update Interval: 313.509949
+[2025.12.13-18.48.07:347][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.13-18.48.07:360][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LVL1" FILE="../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.13-18.48.08:058][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LVL1_Auto6
+[2025.12.13-18.48.08:059][355]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/LVL1_Auto6E42F2B564E5757119ACD5D913F8CFE86.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/LVL1_Auto6.umap'
+[2025.12.13-18.48.08:075][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LVL1' took 0.810
+[2025.12.13-18.48.08:075][355]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.810
+[2025.12.13-18.48.08:075][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/MovingPlateforme] ([2] browsable assets)...
+[2025.12.13-18.48.08:075][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/MovingPlateforme]
+[2025.12.13-18.48.08:084][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/MovingPlateforme_Auto6
+[2025.12.13-18.48.08:084][355]LogSavePackage: Moving '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/MovingPlateforme_Auto69BA36C0D403B78E884F326A3A95ABB2B.tmp' to '../../../../../../Users/yacin/Documents/GitHub/VroomVroomTogether/Saved/Autosaves/Game/BP/MovingPlateforme_Auto6.uasset'
+[2025.12.13-18.48.08:085][355]LogFileHelpers: Auto-saving content packages took 0.011
