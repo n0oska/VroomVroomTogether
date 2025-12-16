@@ -1627,3 +1627,279 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.12.16-10.30.01:223][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.16-10.30.01:223][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.16-10.30.01:225][ 59]AssetCheck: /Game/LVL1 Validating asset
+[2025.12.16-10.32.24:921][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.16-10.32.24:949][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.16-10.32.24:967][530]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.12.16-10.32.24:968][530]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.12.16-10.32.24:969][530]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.16-10.32.25:127][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157753s)
+[2025.12.16-10.32.25:127][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.158101s)
+[2025.12.16-10.32.25:148][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.16-10.32.25:153][530]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.16-10.32.25:158][530]LogPlayLevel: PIE: World Init took: (0.003988s)
+[2025.12.16-10.32.25:160][530]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-10.32.25:160][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-10.32.25:160][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-10.32.25:160][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-10.32.25:160][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-10.32.25:160][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-10.32.25:163][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-10.32.25:191][530]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.16-10.32.25:191][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-10.32.25:191][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-10.32.25:191][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-10.32.25:192][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.16-10.32.25:192][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.16-10.32.25:197][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.16-10.32.25:197][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.16-10.32.25:197][530]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.16-10.32.25:197][530]LogAudio: Display: Audio Device (ID: 2) registered with world 'LVL1'.
+[2025.12.16-10.32.25:197][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.16-10.32.25:212][530]LogLoad: Game class is 'GM_Vehicle_C'
+[2025.12.16-10.32.25:252][530]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.16-11.32.25
+[2025.12.16-10.32.25:256][530]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.12.16-10.32.25:259][530]LogWorld: Bringing up level for play took: 0.045093
+[2025.12.16-10.32.25:286][530]LogCsvProfiler: Display: Metadata set : iris="0"
+[2025.12.16-10.32.25:287][530]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.12.16-10.32.25:287][530]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.12.16-10.32.25:293][530]LogPushModel: PushModel HandleCreation is now enabled
+[2025.12.16-10.32.25:293][530]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.12.16-10.32.25:297][530]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.12.16-10.32.25:297][530]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2025.12.16-10.32.25:298][530]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.12.16-10.32.25:299][530]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2025.12.16-10.32.25:398][530]PIE: Server logged in
+[2025.12.16-10.32.25:402][530]PIE: Play in editor total start time 0,463 seconds.
+[2025.12.16-10.32.25:478][530]LogSlate: New Slate User Created. Platform User Id 1, User Index 1, Is Virtual User: 0
+[2025.12.16-10.32.25:479][530]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2025.12.16-10.33.18:066][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-10.33.18:066][668]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.16-10.33.18:067][668]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-10.33.18:079][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-10.33.18:085][668]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2025.12.16-10.33.18:085][668]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 
+[2025.12.16-10.33.18:087][668]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 shut down
+[2025.12.16-10.33.18:087][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-10.33.18:093][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-10.33.18:124][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.16-10.33.18:124][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.16-10.33.18:129][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.12.16-10.33.18:133][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.12.16-10.33.18:142][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-10.33.18:159][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.16-10.33.18:235][669]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.12.16-10.33.31:565][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5045.409180
+[2025.12.16-10.33.31:716][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-10.33.31:716][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5045.542480, Update Interval: 324.741974
+[2025.12.16-10.35.15:919][469]Cmd: EDIT COPY
+[2025.12.16-10.35.16:086][479]Cmd: EDIT PASTE
+[2025.12.16-10.35.25:500][997]Cmd: EDIT COPY
+[2025.12.16-10.35.25:733][ 11]Cmd: EDIT PASTE
+[2025.12.16-10.35.29:185][205]Cmd: EDIT COPY
+[2025.12.16-10.35.29:418][219]Cmd: EDIT PASTE
+[2025.12.16-10.35.33:361][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.16-10.35.33:376][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.16-10.35.33:416][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.16-10.35.33:581][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164797s)
+[2025.12.16-10.35.33:582][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.164849s)
+[2025.12.16-10.35.33:608][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.16-10.35.33:611][443]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.16-10.35.33:613][443]LogPlayLevel: PIE: World Init took: (0.002370s)
+[2025.12.16-10.35.33:614][443]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.16-10.35.33:614][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-10.35.33:614][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-10.35.33:614][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-10.35.33:614][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-10.35.33:614][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-10.35.33:615][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-10.35.33:615][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-10.35.33:615][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-10.35.33:615][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-10.35.33:615][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-10.35.33:615][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-10.35.33:618][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-10.35.33:646][443]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.16-10.35.33:646][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-10.35.33:646][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-10.35.33:646][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-10.35.33:646][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.16-10.35.33:646][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.16-10.35.33:650][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.16-10.35.33:650][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.16-10.35.33:650][443]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.16-10.35.33:650][443]LogAudio: Display: Audio Device (ID: 3) registered with world 'LVL1'.
+[2025.12.16-10.35.33:650][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.16-10.35.33:656][443]LogLoad: Game class is 'GM_Vehicle_C'
+[2025.12.16-10.35.33:695][443]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.16-11.35.33
+[2025.12.16-10.35.33:699][443]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.12.16-10.35.33:699][443]LogWorld: Bringing up level for play took: 0.043117
+[2025.12.16-10.35.33:700][443]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.12.16-10.35.33:700][443]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.12.16-10.35.33:700][443]LogPushModel: PushModel HandleCreation is now enabled
+[2025.12.16-10.35.33:700][443]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.12.16-10.35.33:701][443]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.12.16-10.35.33:701][443]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2025.12.16-10.35.33:701][443]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.12.16-10.35.33:701][443]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 IpNetDriver listening on port 17777
+[2025.12.16-10.35.33:712][443]PIE: Server logged in
+[2025.12.16-10.35.33:716][443]PIE: Play in editor total start time 0,34 seconds.
+[2025.12.16-10.36.14:168][818]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Casque pour téléphone (HORI Fighting Commander OCTA)'
+[2025.12.16-10.36.14:169][818]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Casque pour téléphone (HORI Fighting Commander OCTA)'
+[2025.12.16-10.36.14:280][823]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (HORI Fighting Commander OCTA), InstanceID=1
+[2025.12.16-10.36.14:281][823]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.16-10.36.14:281][823]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (HORI Fighting Commander OCTA), InstanceID=3
+[2025.12.16-10.36.14:281][823]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.16-10.36.14:288][823]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}]
+[2025.12.16-10.36.14:288][823]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.16-10.36.14:288][823]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}]
+[2025.12.16-10.36.14:288][823]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.16-10.36.14:288][823]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.16-10.36.14:288][823]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.16-10.36.14:555][834]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Microphone sur casque (HORI Fighting Commander OCTA)'
+[2025.12.16-10.36.14:557][834]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Microphone sur casque (HORI Fighting Commander OCTA)'
+[2025.12.16-10.36.15:099][856]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}, Name=Casque pour téléphone (HORI Fighting Commander OCTA)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=794.23
+[2025.12.16-10.36.15:099][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.16-10.36.15:099][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.16-10.36.15:105][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.16-10.36.15:112][856]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}, Name=Casque pour téléphone (HORI Fighting Commander OCTA)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=3, DurationMS=799.11
+[2025.12.16-10.36.15:112][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.16-10.36.15:112][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.16-10.36.15:117][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.16-10.36.19:341][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2: Audio device not available [Casque pour téléphone (HORI Fighting Commander OCTA)], falling back to other windows default device. InState=2, bIsRenderDevice=1, InstanceID=3
+[2025.12.16-10.36.19:341][ 83]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDeviceStateChanged', force=1
+[2025.12.16-10.36.19:349][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.12.16-10.36.19:349][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.16-10.36.19:349][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDeviceStateChanged
+[2025.12.16-10.36.19:359][ 84]LogAudioMixer: Error: CreateMasteringVoice failed with result 0x88890004: AUDCLNT_E_DEVICE_INVALIDATED (line: 1277) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{94f6c0fa-f952-4370-98bc-f3024c295329}, Name=Casque pour téléphone (HORI Fighting Commander OCTA))
+[2025.12.16-10.36.19:374][ 85]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.12.16-10.36.19:374][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.16-10.36.19:374][ 85]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=3
+[2025.12.16-10.36.19:374][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.16-10.36.19:374][ 85]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25164
+[2025.12.16-10.36.19:374][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2025.12.16-10.36.19:378][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.16-10.36.19:395][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (JBL TUNE130NC TWS), InstanceID=1
+[2025.12.16-10.36.19:395][ 86]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.16-10.36.19:396][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}]
+[2025.12.16-10.36.19:396][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.16-10.36.19:396][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.16-10.36.19:396][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (JBL TUNE130NC TWS), InstanceID=3
+[2025.12.16-10.36.19:396][ 86]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.16-10.36.19:417][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}]
+[2025.12.16-10.36.19:417][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.16-10.36.19:417][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.16-10.36.19:471][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}, Name=Casque (JBL TUNE130NC TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.86
+[2025.12.16-10.36.19:471][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.16-10.36.19:471][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.16-10.36.19:480][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.16-10.36.19:480][ 89]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=3
+[2025.12.16-10.36.19:485][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7d4bd1e6-9ff8-4f44-a225-eb3a883eb432}, Name=Casque (JBL TUNE130NC TWS)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=3, DurationMS=50.33
+[2025.12.16-10.36.19:485][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.16-10.36.19:485][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.16-10.36.19:490][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.16-10.36.43:468][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-10.36.43:468][ 16]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.16-10.36.43:468][ 16]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-10.36.43:480][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-10.36.43:483][ 16]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2025.12.16-10.36.43:483][ 16]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 
+[2025.12.16-10.36.43:483][ 16]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 shut down
+[2025.12.16-10.36.43:483][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-10.36.43:487][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-10.36.43:513][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-10.36.43:518][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.16-10.36.43:518][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.12.16-10.36.43:522][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.12.16-10.36.43:541][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.16-10.36.43:673][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.12.16-10.37.50:206][964]LogInputDeviceMapper: [AllocateNewUserId] Allocating a new PlatformUserId 1
+[2025.12.16-10.37.53:409][113]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.16-10.37.53:427][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.16-10.37.53:427][113]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LVL1
+[2025.12.16-10.37.53:617][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188937s)
+[2025.12.16-10.37.53:617][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LVL1.LVL1 to /Game/UEDPIE_0_LVL1.LVL1 (0.188996s)
+[2025.12.16-10.37.53:643][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.12.16-10.37.53:646][113]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL1
+[2025.12.16-10.37.53:649][113]LogPlayLevel: PIE: World Init took: (0.002910s)
+[2025.12.16-10.37.53:651][113]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-10.37.53:651][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-10.37.53:651][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-10.37.53:651][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-10.37.53:651][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-10.37.53:651][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-10.37.53:655][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-10.37.53:688][113]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL TUNE130NC TWS)
+[2025.12.16-10.37.53:688][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-10.37.53:688][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-10.37.53:688][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-10.37.53:689][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.16-10.37.53:689][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.16-10.37.53:695][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.16-10.37.53:695][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.16-10.37.53:695][113]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.16-10.37.53:695][113]LogAudio: Display: Audio Device (ID: 4) registered with world 'LVL1'.
+[2025.12.16-10.37.53:695][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.16-10.37.53:702][113]LogLoad: Game class is 'GM_Vehicle_C'
+[2025.12.16-10.37.53:746][113]LogWorld: Bringing World /Game/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2025.12.16-11.37.53
+[2025.12.16-10.37.53:750][113]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.12.16-10.37.53:750][113]LogWorld: Bringing up level for play took: 0.047331
+[2025.12.16-10.37.53:752][113]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.12.16-10.37.53:752][113]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.12.16-10.37.53:752][113]LogPushModel: PushModel HandleCreation is now enabled
+[2025.12.16-10.37.53:752][113]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.12.16-10.37.53:752][113]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.12.16-10.37.53:752][113]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2025.12.16-10.37.53:753][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.12.16-10.37.53:753][113]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2025.12.16-10.37.53:763][113]PIE: Server logged in
+[2025.12.16-10.37.53:767][113]PIE: Play in editor total start time 0,34 seconds.
+[2025.12.16-10.38.13:767][304]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.16-10.38.13:767][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.16-10.38.13:767][304]LogScript: Warning: Accessed None trying to read (real) property WBP_Pause in BP_CarBase_C
+	BP_Car2_C /Game/UEDPIE_0_LVL1.LVL1:PersistentLevel.BP_Car2_C_0
+	Function /Game/BP/BP_Car/BP_CarEtLink/BP_CarBase.BP_CarBase_C:ExecuteUbergraph_BP_CarBase:0CD3
+[2025.12.16-10.38.13:767][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property WBP_Pause in BP_CarBase_C". Node:  Set Keyboard Focus Graph:  EventGraph Function:  Execute Ubergraph BP Car Base Blueprint:  BP_CarBase
+[2025.12.16-10.38.13:767][304]LogScript: Warning: Accessed None
+	BP_Car2_C /Game/UEDPIE_0_LVL1.LVL1:PersistentLevel.BP_Car2_C_0
+	Function /Game/BP/BP_Car/BP_CarEtLink/BP_CarBase.BP_CarBase_C:ExecuteUbergraph_BP_CarBase:0CE8
+[2025.12.16-10.38.13:767][304]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Keyboard Focus Graph:  EventGraph Function:  Execute Ubergraph BP Car Base Blueprint:  BP_CarBase
+[2025.12.16-10.38.20:865][730]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.16-10.38.20:865][730]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.16-10.38.29:389][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-10.38.29:389][239]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LVL1
+[2025.12.16-10.38.29:390][239]LogWorld: UWorld::CleanupWorld for LVL1, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-10.38.29:402][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-10.38.29:405][239]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2025.12.16-10.38.29:405][239]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 
+[2025.12.16-10.38.29:405][239]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 shut down
+[2025.12.16-10.38.29:405][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-10.38.29:410][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-10.38.29:443][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-10.38.29:447][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.16-10.38.29:447][239]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.16-10.38.29:451][239]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.16-10.38.29:472][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.16-10.38.29:822][240]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.12.16-10.38.36:147][571]LogSlate: Window 'Message Log' being destroyed
+[2025.12.16-10.38.36:175][571]LogSlate: Window 'Message Log' being destroyed
+[2025.12.16-10.39.31:987][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5405.892090
+[2025.12.16-10.39.32:122][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-10.39.32:122][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5406.008301, Update Interval: 340.333862
+[2025.12.16-10.39.32:764][498]Cmd: TRANSACTION UNDO
+[2025.12.16-10.39.32:765][498]LogEditorTransaction: Undo Move Elements
+[2025.12.16-10.39.33:069][501]Cmd: TRANSACTION UNDO
+[2025.12.16-10.39.33:069][501]LogEditorTransaction: Undo Rotate Elements
+[2025.12.16-10.39.33:573][520]Cmd: TRANSACTION UNDO
+[2025.12.16-10.39.33:574][520]LogEditorTransaction: Undo Rotate Elements
